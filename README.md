@@ -1,10 +1,3 @@
-ひつじが1ぴきだぜぇ
 
-ひつじが2ひきだぜぇ
-
-ひつじが3ひきだぜぇ
-
-ひつじが4ひき
-
-ひつじが5ひき
-
+See
+- http://dqn.sakusakutto.jp/2012/10/git_rebase_wild.html  Git超入門 - 猿でもできるGit rebase
